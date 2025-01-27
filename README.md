@@ -11,6 +11,9 @@
 - Rate limiting for API endpoints.
 - Middleware for input validation.
 - JsDocs for code commenting explation
+- Swagger
+- DFD
+- Entity relation diagram 
 
 ## Tech Stack
 
